@@ -19,6 +19,11 @@ public class ADemo {
 		
 		
 		
+		
+		for (int a = 7; a<=91; a++) {
+			System.out.println(a);
+			
+		}
 	}
 	public static int getNum(int a,int b) {
 		int result=2*2;
