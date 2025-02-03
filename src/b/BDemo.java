@@ -18,8 +18,11 @@ public void add(int c, int d) {
 		System.out.println(c + d);
 		
 	}
-
-public void division( int x , int y) {
-	System.out.println(x / y); 
-}
+	
+	
+	
+ public static void multiply (int m, int n) {
+	 
+	 System.out.println( "print this");
+ }
 }
