@@ -18,4 +18,8 @@ public void add(int c, int d) {
 		System.out.println(c + d);
 		
 	}
+
+public void division( int x , int y) {
+	System.out.println(x / y); 
+}
 }
