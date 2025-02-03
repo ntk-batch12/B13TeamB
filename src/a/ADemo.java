@@ -25,10 +25,7 @@ public class ADemo {
 			
 		}
 		
-		
-		
-		public static int add (int num1, int mun2);
-		
+	
 		System.out.println( "new code added");
 		
 	}
@@ -47,4 +44,16 @@ public class ADemo {
 	public void add(int a, int b) {
 		System.out.println(a+b);
 	}
+
+
+
+   public void subtract (int c, int d) {
+	   
+	   System.out.println(" fixed it");
+   }
+
+
+	
+
+
 }
