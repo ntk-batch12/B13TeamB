@@ -7,5 +7,14 @@ public class ADemo {
 		
 		System.out.println("Let's learn some new stuff!");
 	}
+	public static int getNum(int a,int b) {
+		int result=2*2;
+		int c=10;
+		if (c==result) {
+			
+		}
+		
+		return result;
+	}
 
 }
