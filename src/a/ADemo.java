@@ -24,6 +24,13 @@ public class ADemo {
 			System.out.println(a);
 			
 		}
+		
+		
+		
+		public static int add (int num1, int mun2);
+		
+		System.out.println( "new code added");
+		
 	}
 	public static int getNum(int a,int b) {
 		int result=2*2;
