@@ -9,4 +9,7 @@ public class BDemo {
 		System.out.println(a+b);
 	}
 
+	void sleeping() {
+		System.out.println("tired");
+	}
 }
