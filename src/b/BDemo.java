@@ -22,4 +22,8 @@ public void add(int c, int d) {
 public void division( int x , int y) {
 	System.out.println(x / y); 
 }
+
+public void remainder( int x , int y) {
+	System.out.println(x % y); 
+}
 }
