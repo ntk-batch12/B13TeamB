@@ -6,4 +6,7 @@ public class BDemo {
 		System.out.println("BDemo: TeamB");
 	}
 
+	void sleeping() {
+		System.out.println("tired");
+	}
 }
