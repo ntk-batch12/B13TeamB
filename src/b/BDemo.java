@@ -6,4 +6,9 @@ public class BDemo {
 		System.out.println("BDemo: TeamB");
 	}
 
+	
+	
+	public static void add (int a) {
+		System.out.println(" pull requests");
+	}
 }
