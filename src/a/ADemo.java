@@ -51,6 +51,10 @@ public class ADemo {
 	   
 	   System.out.println(" fixed it");
    }
+   
+public static void num(int a,int b) {
+	System.out.println(a+b);
+}
 
 
 	
