@@ -7,6 +7,7 @@ public class BDemo {
 	}
 	public static void getNum(int a, int b) {
 		System.out.println(a+b);
+		System.out.println("Creating a conflict");
 	}
 
 	void sleeping() {
