@@ -8,6 +8,8 @@ public class BDemo {
 		int a = 11;
 		int b = 22;
 
+		int x = 55;
+		int y = 100;
 
 		
 		System.out.println("BDemo: TeamB");
