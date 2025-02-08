@@ -25,6 +25,10 @@ public void division( int x , int y) {
 
 public void remainder( int x , int y) {
 	System.out.println(x % y); 
+
+
+	System.out.println("What er you doing?");
+	System.out.println("What are you doing?");
 }
 
 int test = 10;
