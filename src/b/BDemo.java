@@ -17,7 +17,7 @@ public class BDemo {
 	
 
 	int bron = 23;
-	int luka = 77;
+	int luka = 77222;
 
 	
 	
