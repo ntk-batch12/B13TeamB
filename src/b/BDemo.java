@@ -8,5 +8,7 @@ public class BDemo {
 
 	System.out.println("Test it");
 
+	int shred = 45;
+
 }
 }
