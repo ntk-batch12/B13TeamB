@@ -28,5 +28,6 @@ public void remainder( int x , int y) {
 
 
 	System.out.println("What er you doing?");
+	System.out.println("What are you doing?");
 }
 }
