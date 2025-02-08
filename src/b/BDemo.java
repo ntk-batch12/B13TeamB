@@ -14,6 +14,7 @@ public class BDemo {
 
 	int a = 2;
 	int b = 34;
+	
 
 	
 	
@@ -22,7 +23,7 @@ public class BDemo {
 	public int getSomeSleep(int bed ) {
 		int result = 0;
 		
-	
+	System.out.println("Conflicts");
 	return result;
 	}
 	
