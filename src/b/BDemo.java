@@ -7,9 +7,11 @@ public class BDemo {
 	}
 	public static void getNum(int a, int b) {
 		System.out.println(a+b);
+
 		int a1 = 8;
 		int b1 = 9;
 		
+
 	}
 
 	void sleeping() {
