@@ -9,6 +9,8 @@ public class ADemo {
 		
 		int lakers = 122;
 		int celtics = 121;
+		boolean isCitizen = true;
+		char gender ='M;
 		
 		if(lakers > celtics) {
 			System.out.println("Lakers win");
