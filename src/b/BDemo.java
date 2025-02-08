@@ -4,7 +4,10 @@ public class BDemo {
 	
 	public static void main(String[] args) {
 		System.out.println("BDemo: TeamB");
-	char fragment = 'R';
+
+
+int num = 56;	
+
 
 	System.out.println("Test it");
 	
