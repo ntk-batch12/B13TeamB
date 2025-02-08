@@ -18,7 +18,7 @@ public void add(int c, int d) {
 		System.out.println(c + d);
 		
 	}
-
+System.out.println("What er you doing?");
 public void division( int x , int y) {
 	System.out.println(x / y); 
 }
@@ -29,5 +29,6 @@ public void remainder( int x , int y) {
 
 	System.out.println("What er you doing?");
 	System.out.println("What are you doing?");
+	System.out.println("What er you doing?");
 }
 }
