@@ -3,9 +3,12 @@ package b;
 public class BDemo {
 	
 	public static void main(String[] args) {
-		
-		char gender = 'F';
-		char temp = 'F';
+
+
+		int a = 11;
+		int b = 22;
+
+
 		
 		System.out.println("BDemo: TeamB");
 	}
