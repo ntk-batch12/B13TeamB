@@ -11,5 +11,7 @@ public class BDemo {
 	
 	char test = 'T';
 
+	int shred = 45;
+
 }
 }
