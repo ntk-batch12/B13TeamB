@@ -7,6 +7,9 @@ public class BDemo {
 	}
 
 	System.out.println("Test it");
+	
+	
+	char test = 'T';
 
 }
 }
